@@ -1,0 +1,22 @@
+
+[{
+    "country": "France",
+    "name": "National Institute of Applied Sciences of Toulouse",
+    "domains":  ["insa-toulouse.fr"],
+    "alpha_two_code": "FR",
+    "web_pages": ["https://insa-toulouse.fr"],
+    "state-province": null
+    
+},
+
+{
+    "country": "United Kingdom",
+    "name": "West Herts College",
+    "domains": [
+            "student.westherts.ac.uk",
+            "westherts.ac.uk"
+        ],
+    "alpha_two_code": "GB",
+    "web_pages": ["https://westherts.ac.uk"],
+    "state-province": null
+}]
